@@ -1,0 +1,1 @@
+Install npm modules and then run start command
