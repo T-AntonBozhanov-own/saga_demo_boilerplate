@@ -1,0 +1,1 @@
+export const selectPics = state => state.picsReducer.pictures;
